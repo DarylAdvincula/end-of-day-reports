@@ -1,0 +1,4 @@
+08:30 AM – 10:00 AM | Training: Advanced Querying Techniques in SQL Server Module 1 - 2
+10:15 AM – 12:00 PM | Training: Advanced Querying Techniques in SQL Server Module 2
+01:00 PM – 03:00 PM | Training: Advanced Querying Techniques in SQL Server Module 3 - 4
+03:15 PM – 05:00 PM | Training: Advanced Querying Techniques in SQL Server Module 4 - 5
