@@ -1,0 +1,4 @@
+08:30 AM - 10:00 AM | Training: LINQ Fundamentals in C# Module 4 - 5
+10:15 AM - 12:00 PM | Training: LINQ Fundamentals in C# Module 6 - 8
+01:00 PM - 03:00 PM | Training: LINQ Fundamentals in C# Module 9
+03:15 PM - 05:30 PM | Training: LINQ Fundamentals in C# Module 10 - 12
