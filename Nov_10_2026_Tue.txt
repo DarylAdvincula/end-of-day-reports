@@ -1,0 +1,5 @@
+08:30 AM - 09:30 AM | Training: SCRUM
+09:30 AM - 10:00 AM | Training: LINQ Fundamentals in C# Module 13 - 14
+10:15 AM - 12:00 PM | Training: Course Topic Module 14
+01:00 PM - 03:00 PM | Training: Course Topic Module 14 - 15
+03:15 PM - 05:30 PM | Training: C# 14 Collections and LINQ Module 1 - 3
