@@ -1,0 +1,4 @@
+08:30 AM - 10:00 AM | Training: C# 14 Collections and LINQ Module 3 - 4
+10:15 AM - 12:00 PM | Training: C# 14 Collections and LINQ Module 5 - 6
+01:00 PM - 03:00 PM | Training: ASP.NET Core Web API: Best Practices Module 1 - 3
+03:15 PM - 05:30 PM | Training: ASP.NET Core Web API: Best Practices Module 4
